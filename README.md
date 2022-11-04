@@ -8,4 +8,4 @@ How to use the Flexbot, and several other elemants that are crucial for creating
 
 <h2> Screen gif of final result</h2>
 
-![](project.gif)
+![](Project.gif)
